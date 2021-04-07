@@ -30,6 +30,10 @@ Si tout est bon taper la commande
    sudo apt-get install phpmyadmin
    
 Pour vous connecter à phpmyadmin aller sur une page web puis:
+    
     https://ip_du_serveur/phpmyadmin
     login-user et password son ceux de votre serveur-mariadb.
-    
+
+à partir de phpmyadmin ont peut exporter et importer une base de donnée en format .sql.    
+ 
+Mises en place d'un script dans le but d'automatiser la sauvegarde de base de données.   
