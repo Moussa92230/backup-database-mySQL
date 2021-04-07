@@ -12,7 +12,7 @@ Vérifier si mariadb et bien installer
 
     sudo systemctl status mariadb
     
-Une fois que tout est ok il faut créer un user mysql ravec tous les droits.
+Une fois que tout est ok il faut créer un user mysql avec tous les droits.
 
     sudo mysql -u root -p
 Une fois accés à mariadb taper la commande
